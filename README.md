@@ -1,5 +1,13 @@
 # From Web Sites to Web Applications: The change of the Internet
 
+```
+Hochschule der Medien
+Fakultät Druck und Medien
+Anleitung zum wissenschaftlichen Arbeiten
+Leitung: Prof. Dr. Joachim Charzinski
+Sommersemester 2016
+```
+
 ## Abriss
 Zwischen der ersten statischen Webseite und den heutigen Web-Applikationen stehen viele technische Entwicklungsschritte, die in dieser Arbeit beleuchtet werden.
 

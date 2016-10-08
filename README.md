@@ -8,10 +8,6 @@ Leitung: Prof. Dr. Joachim Charzinski
 Sommersemester 2016
 ```
 
-## Abriss
-Zwischen der ersten statischen Webseite und den heutigen Web-Applikationen stehen viele technische Entwicklungsschritte, die in dieser Arbeit beleuchtet werden.
-
-## Einleitung
 Webseiten wurden über die letzten Jahrzehnte hinweg immer dynamischer und interaktiver. Auch die tatsächliche Funktionalität wuchs. So steht die Web Applikation Google Mail mittlerweile regulären Desktop E-Mail-Clients funktional in nichts mehr nach. Kollaboratives Schreiben von Texten ist mittlerweile genauso möglich, wie das Erstellen von Grafiken, Bearbeiten von Fotos und Audio-Dateien. In dieser Arbeit soll der Entwicklungsverlauf, von den ersten statischen Webseiten, zu dem was man heute Web App nennt nachgezeichnet werden.
 
 ## Begriffsklärung
